@@ -95,18 +95,18 @@ void AMomentumPlatformerCharacter::TouchStopped(ETouchIndex::Type FingerIndex, F
 void AMomentumPlatformerCharacter::TurnAtRate(float Rate)
 {
 	// calculate delta for this frame from the rate information
-	AddControllerYawInput(Rate * BaseTurnRate * GetWorld()->GetDeltaSeconds());
+	//AddControllerYawInput(Rate * BaseTurnRate * GetWorld()->GetDeltaSeconds());
 }
 
 void AMomentumPlatformerCharacter::LookUpAtRate(float Rate)
 {
 	// calculate delta for this frame from the rate information
-	AddControllerPitchInput(Rate * BaseLookUpRate * GetWorld()->GetDeltaSeconds());
+	//AddControllerPitchInput(Rate * BaseLookUpRate * GetWorld()->GetDeltaSeconds());
 }
 
 void AMomentumPlatformerCharacter::MoveForward(float Value)
 {
-	if ((Controller != NULL) && (Value != 0.0f) && !Grinding)
+	if ((Controller != NULL) && (Value != 0.0f) && !Grinding && !Drifting)
 	{
 		// find out which way is forward
 		const FRotator Rotation = Controller->GetControlRotation();

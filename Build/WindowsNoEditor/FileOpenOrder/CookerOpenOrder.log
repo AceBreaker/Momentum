@@ -1,417 +1,1109 @@
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Sounds/FX/Character/Snow_Slide_Medium_.uasset" 0
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 1
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 2
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 3
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 4
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 5
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 6
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 7
-"../../../Engine/Content/BasicShapes/Cone.uasset" 8
-"../../../Engine/Content/BasicShapes/Cube.uasset" 9
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 10
-"../../../Engine/Content/BasicShapes/Plane.uasset" 11
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 12
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 13
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 14
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 15
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 16
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 17
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 18
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 19
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 20
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 21
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 22
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 23
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 24
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 25
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 26
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 27
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 28
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 29
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 30
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 31
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 32
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 33
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 34
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 35
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 36
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 37
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 38
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 39
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 40
-"../../../Engine/Content/EditorResources/S_Note.uasset" 41
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 42
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 43
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 44
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 45
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 46
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 47
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 48
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 49
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 50
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 51
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 52
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 53
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 54
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 55
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 56
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 57
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 58
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 59
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 60
-"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 61
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 62
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 63
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 64
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 65
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 66
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 67
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 68
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 69
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 70
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 71
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 72
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 73
-"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 74
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 75
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 76
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 77
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 78
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 79
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 80
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 81
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 82
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 83
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 84
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 85
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 86
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 87
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 88
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 89
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 90
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 91
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 92
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 93
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 94
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 95
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 96
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 97
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 98
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 99
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 100
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 101
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 102
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 103
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 104
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 105
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 106
-"../../../Engine/Content/EngineResources/Black.uasset" 107
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 108
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 109
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 110
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 111
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 112
-"../../../Engine/Content/EngineSounds/Master.uasset" 113
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 114
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 115
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 116
-"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 117
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 118
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 119
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 120
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 121
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 122
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 123
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 124
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 125
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 126
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 127
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 128
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 129
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 130
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 131
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 132
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 133
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 134
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 135
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 136
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 137
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 138
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 139
-"../../../Engine/Content/Tutorial/SubEditors/GettingSubstance.uasset" 140
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 141
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 142
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 143
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 144
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 145
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 146
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 147
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 148
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 149
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 150
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 151
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 152
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 153
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 154
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 155
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 156
-"../../Plugins/Experimental/ControlRig/Content/M_Manip.uasset" 157
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset" 158
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset" 159
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset" 160
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset" 161
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset" 162
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset" 163
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset" 164
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset" 165
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset" 166
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset" 167
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset" 168
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset" 169
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Box_solid.uasset" 170
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset" 171
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset" 172
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset" 173
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset" 174
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset" 175
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset" 176
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset" 177
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uasset" 178
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uasset" 179
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uasset" 180
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uasset" 181
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uasset" 182
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset" 183
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset" 184
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Octagon_solid.uasset" 185
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset" 186
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset" 187
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uasset" 188
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uasset" 189
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uasset" 190
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uasset" 191
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uasset" 192
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uasset" 193
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uasset" 194
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uasset" 195
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uasset" 196
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uasset" 197
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset" 198
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset" 199
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset" 200
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset" 201
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset" 202
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Square_solid.uasset" 203
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset" 204
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Star4_3mm.uasset" 205
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Star4_solid.uasset" 206
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uasset" 207
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uasset" 208
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Triangle_solid.uasset" 209
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset" 210
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset" 211
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset" 212
-"../../Plugins/Experimental/ControlRig/Content/Controls/DefaultGizmoLibrary.uasset" 213
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 214
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 215
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 216
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 217
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 218
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 219
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 220
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 221
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 222
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 223
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Rig/TestImportRig_Skeleton.uasset" 224
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Rig/CartoonJump2_MyCharacter_Idle.uasset" 225
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Rig/KinzieGrind.uasset" 226
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Rig/KinzieJump.uasset" 227
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Rig/KinzieAccelerate.uasset" 228
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Rig/KinzieIdle.uasset" 229
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Rig/KinzieLocomotionBS.uasset" 230
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 231
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Sounds/FX/Character/ConcreteSoundCue.uasset" 232
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Rig/KinzieAnimBP.uasset" 233
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Rig/NewAnimMontage.uasset" 234
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/AutoJump.uasset" 235
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/ColorTypes.uasset" 236
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Male/Material.uasset" 237
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Male/CartoonMaleShirt.uasset" 238
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Male/Material_005.uasset" 239
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Male/CartoonMaleShorts.uasset" 240
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Material.uasset" 241
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Models/Character/Female/CartoonLongSleeve_PhysicsAsset.uasset" 242
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Models/Character/Female/CartoonLongSleeve.uasset" 243
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Material_005.uasset" 244
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Models/Character/Female/CartoonPants.uasset" 245
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Rig/Material.uasset" 246
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Rig/TestImportRigShirt_PhysicsAsset.uasset" 247
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Rig/TestImportRigShirt.uasset" 248
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Rig/Material_005.uasset" 249
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Rig/TestImportRigShorts.uasset" 250
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/ColorPicker.uasset" 251
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/HairRetopoMat.uasset" 252
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Material_004.uasset" 253
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/TestImport_LowPoly_Skeleton.uasset" 254
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/AccelerateAnim.uasset" 255
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Male/EyeTexture.uasset" 256
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Male/Material_001.uasset" 257
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Male/Material_002.uasset" 258
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Male/Material_003.uasset" 259
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Male/Material_004.uasset" 260
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Male/CartoonMale_PhysicsAsset.uasset" 261
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Male/CartoonMale.uasset" 262
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Male/CartoonMaleHair.uasset" 263
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/EyeTexture.uasset" 264
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/EyeTextureBlank.uasset" 265
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/EyeTextureColor.uasset" 266
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Rig/EyeTexture.uasset" 267
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Rig/Material_001.uasset" 268
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Rig/Material_002.uasset" 269
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Rig/Material_003.uasset" 270
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Rig/Material_004.uasset" 271
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Rig/TestImportRig_PhysicsAsset.uasset" 272
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Rig/TestImportRig.uasset" 273
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/CharacterCustomizerRandom.uasset" 274
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/ThirdPersonCPP/Balance.uasset" 275
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/RailMat.uasset" 276
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Geometry/Rail.uasset" 277
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/ThirdPersonCPP/GrindRail.uasset" 278
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/AccelerationCurve.uasset" 279
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/JumpForceCurve.uasset" 280
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/MovementSpeed.uasset" 281
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Material_001.uasset" 282
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 283
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 284
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 285
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Models/Character/GogglesTexture.uasset" 286
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Models/Character/GogglesMaterial.uasset" 287
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Models/Character/HeadphonesMaterial.uasset" 288
-"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 289
-"../../Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uasset" 290
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 291
-"../../Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 292
-"../../Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 293
-"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedFloat.uasset" 294
-"../../Plugins/FX/Niagara/Content/Functions/RandomRangeInteger.uasset" 295
-"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedInt.uasset" 296
-"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 297
-"../../Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 298
-"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 299
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 300
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 301
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 302
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 303
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 304
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 305
-"../../Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 306
-"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 307
-"../../Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 308
-"../../Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 309
-"../../Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uasset" 310
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 311
-"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 312
-"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 313
-"../../Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uasset" 314
-"../../Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 315
-"../../Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uasset" 316
-"../../Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 317
-"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 318
-"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uasset" 319
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 320
-"../../Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uasset" 321
-"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uasset" 322
-"../../Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 323
-"../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSizeBySpeed.uasset" 324
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/ParticlesFX/GrindSparks.uasset" 325
-"../../Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 326
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 327
-"../../Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 328
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/ParticlesFX/GrindSparksSystem.uasset" 329
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Models/Character/CartoonGoggles.uasset" 330
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Models/Character/CartoonHeadphones.uasset" 331
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Rig/TestImportRigSkates_PhysicsAsset.uasset" 332
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Rig/TestImportRigSkates.uasset" 333
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Sounds/FX/Character/FA_Whoosh_1_2.uasset" 334
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Sounds/FX/Character/grindSound.uasset" 335
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Sounds/FX/Character/MetalBracketHit_FSHOF_629.uasset" 336
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset" 337
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/PanningCamera.uasset" 338
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/MainMenuGameMode.uasset" 339
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Levels/MainMenu_BuiltData.uasset" 340
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 341
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 342
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/StarterContent/Textures/T_MacroVariation.uasset" 343
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 344
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 345
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/UI/Menus/MainMenu.uasset" 346
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Levels/MainMenu.umap" 347
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Audio/SFX/FA_Win_Stinger_2.uasset" 348
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/CollectibleManager.uasset" 349
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 350
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 351
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/M_Metal_Gold.uasset" 352
-"../../Plugins/FX/Niagara/Content/DefaultAssets/M_Gnomon_Alpha.uasset" 353
-"../../Plugins/FX/Niagara/Content/DynamicInputs/Angles/NormalizedAngleToDegrees.uasset" 354
-"../../Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uasset" 355
-"../../Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/VectorFromFloat.uasset" 356
-"../../Plugins/FX/Niagara/Content/Functions/RandomPointInSphere.uasset" 357
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 358
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uasset" 359
-"../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/SphereLocation.uasset" 360
-"../../Plugins/FX/Niagara/Content/Functions/NormalizeDistanceRange.uasset" 361
-"../../Plugins/FX/Niagara/Content/Functions/DistanceBasedFalloff.uasset" 362
-"../../Plugins/FX/Niagara/Content/Functions/RandomUnitVector.uasset" 363
-"../../Plugins/FX/Niagara/Content/Functions/RandomVector.uasset" 364
-"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityFromPoint.uasset" 365
-"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uasset" 366
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraMassByVolume.uasset" 367
-"../../Plugins/FX/Niagara/Content/Modules/Update/Mass/CalculateSizeAndRotationalInertiaByMass.uasset" 368
-"../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleMeshSize.uasset" 369
-"../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uasset" 370
-"../../Plugins/FX/Niagara/Content/DefaultAssets/M_Gnomon.uasset" 371
-"../../Plugins/FX/Niagara/Content/DefaultAssets/S_Arrow.uasset" 372
-"../../Plugins/FX/Niagara/Content/DefaultAssets/Templates/Systems/SimpleExplosion.uasset" 373
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 374
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Audio/SFX/FA_Collect_Coin_1_1.uasset" 375
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Blueprints/ActionBlockIdeas/Collectible.uasset" 376
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Sounds/Music/Levels/4__RoboTrance.uasset" 377
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/MusicPlayer.uasset" 378
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 379
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 380
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 381
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 382
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 383
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 384
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 385
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 386
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 387
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/LevelTimer.uasset" 388
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Geometry/Meshes/CubeMaterial.uasset" 389
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Geometry/Meshes/1M_Cube.uasset" 390
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/ThirdPersonCPP/GrindRailMesh.uasset" 391
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Levels/ActionBlocks/ActionBlockCollectibles_BuiltData.uasset" 392
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/FullTransparent.uasset" 393
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 394
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 395
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 396
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 397
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 398
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 399
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 400
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 401
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/StarterContent/Textures/T_Water_M.uasset" 402
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/StarterContent/Textures/T_Water_N.uasset" 403
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/StarterContent/Materials/M_Water_Ocean.uasset" 404
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/ThirdPersonCPP/M_CelShading.uasset" 405
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/ThirdPersonCPP/CelShadingInst.uasset" 406
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uasset" 407
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/ThirdPersonCPP/M_ToonShader.uasset" 408
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/ThirdPersonCPP/OutlineInst.uasset" 409
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Geometry/Meshes/TemplateFloor.uasset" 410
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/UI/Levels/CollectiblesUI.uasset" 411
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/UI/Levels/GameOver.uasset" 412
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/UI/Levels/Timer.uasset" 413
-"../../../../../../Users/dws24/Documents/Unreal Projects/MomentumPlatformer/Content/Levels/ActionBlocks/ActionBlockCollectibles.umap" 414
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 415
-"../../../Engine/Content/Maps/Entry.umap" 416
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Sounds/FX/Character/Snow_Slide_Medium_.uasset" 0
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Sounds/FX/Character/Snow_Slide_Medium_.uexp" 1
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/Menus/CharacterCreatorSubWidget.uasset" 2
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/Menus/CharacterCreatorSubWidget.uexp" 3
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/Menus/FemaleShirtPicker.uasset" 4
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/Menus/FemaleShirtPicker.uexp" 5
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/Menus/MaleShirtPicker.uasset" 6
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/Menus/MaleShirtPicker.uexp" 7
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 8
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 9
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 10
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 11
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 12
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 13
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 14
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 15
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 16
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 17
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 18
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 19
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 20
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 21
+"../../../Engine/Content/BasicShapes/Cone.uasset" 22
+"../../../Engine/Content/BasicShapes/Cone.uexp" 23
+"../../../Engine/Content/BasicShapes/Plane.uasset" 24
+"../../../Engine/Content/BasicShapes/Plane.uexp" 25
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 26
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 27
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 28
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 29
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 30
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uexp" 31
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 32
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uexp" 33
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 34
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 35
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 36
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 37
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 38
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 39
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uexp" 40
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 41
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uexp" 42
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 43
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uexp" 44
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 45
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uexp" 46
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 47
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uexp" 48
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 49
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uexp" 50
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 51
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uexp" 52
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 53
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uexp" 54
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 55
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uexp" 56
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 57
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uexp" 58
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 59
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uexp" 60
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 61
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 62
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 63
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 64
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 65
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 66
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 67
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp" 68
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 69
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp" 70
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 71
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp" 72
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 73
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp" 74
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 75
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp" 76
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 77
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp" 78
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 79
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp" 80
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 81
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp" 82
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 83
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 84
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 85
+"../../../Engine/Content/EditorResources/EmptyActor.uexp" 86
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 87
+"../../../Engine/Content/EditorResources/S_Actor.uexp" 88
+"../../../Engine/Content/EditorResources/S_Actor.ubulk" 89
+"../../../Engine/Content/EditorResources/S_Note.uasset" 90
+"../../../Engine/Content/EditorResources/S_Note.uexp" 91
+"../../../Engine/Content/EditorResources/S_Note.ubulk" 92
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 93
+"../../../Engine/Content/EditorResources/S_Solver.uexp" 94
+"../../../Engine/Content/EditorResources/S_Solver.ubulk" 95
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 96
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 97
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 98
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 99
+"../../../Engine/Content/EditorResources/S_Trigger.uexp" 100
+"../../../Engine/Content/EditorResources/S_Trigger.ubulk" 101
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 102
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uexp" 103
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.ubulk" 104
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 105
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uexp" 106
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.ubulk" 107
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 108
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uexp" 109
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 110
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 111
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 112
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 113
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 114
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 115
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 116
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 117
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 118
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 119
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 120
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 121
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 122
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 123
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 124
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 125
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 126
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 127
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 128
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 129
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 130
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uexp" 131
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 132
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uexp" 133
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 134
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 135
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 136
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 137
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 138
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 139
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 140
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 141
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 142
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 143
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 144
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 145
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 146
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 147
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 148
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 149
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 150
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 151
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 152
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 153
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 154
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 155
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 156
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 157
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 158
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 159
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 160
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 161
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 162
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uexp" 163
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 164
+"../../../Engine/Content/EngineMaterials/BlueNoise.uexp" 165
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 166
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 167
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 168
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp" 169
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 170
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 171
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 172
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 173
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 174
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 175
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 176
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 177
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 178
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 179
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 180
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 181
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 182
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 183
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 184
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 185
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 186
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 187
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 188
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 189
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 190
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 191
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 192
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 193
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 194
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 195
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 196
+"../../../Engine/Content/EngineMaterials/MiniFont.uexp" 197
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 198
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 199
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 200
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 201
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 202
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 203
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp" 204
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 205
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 206
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 207
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uexp" 208
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 209
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uexp" 210
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" 211
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uexp" 212
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset" 213
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uexp" 214
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 215
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp" 216
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 217
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 218
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 219
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp" 220
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 221
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 222
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 223
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 224
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 225
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 226
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 227
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 228
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 229
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 230
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 231
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 232
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 233
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 234
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 235
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 236
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 237
+"../../../Engine/Content/EngineMeshes/Cylinder.uexp" 238
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 239
+"../../../Engine/Content/EngineMeshes/Sphere.uexp" 240
+"../../../Engine/Content/EngineResources/Black.uasset" 241
+"../../../Engine/Content/EngineResources/Black.uexp" 242
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 243
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uexp" 244
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 245
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp" 246
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 247
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp" 248
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 249
+"../../../Engine/Content/EngineResources/GradientTexture0.uexp" 250
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 251
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 252
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 253
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 254
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 255
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 256
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 257
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 258
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 259
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 260
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 261
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 262
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 263
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 264
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 265
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 266
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 267
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 268
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 269
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 270
+"../../../Engine/Content/EngineSounds/Master.uasset" 271
+"../../../Engine/Content/EngineSounds/Master.uexp" 272
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 273
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 274
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 275
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uexp" 276
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 277
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uexp" 278
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 279
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uexp" 280
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 281
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uexp" 282
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 283
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uexp" 284
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 285
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uexp" 286
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 287
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 288
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 289
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 290
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 291
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 292
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 293
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uexp" 294
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 295
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uexp" 296
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 297
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uexp" 298
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 299
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uexp" 300
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 301
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uexp" 302
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 303
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uexp" 304
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 305
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uexp" 306
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 307
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uexp" 308
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 309
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uexp" 310
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 311
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uexp" 312
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 313
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uexp" 314
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 315
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uexp" 316
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 317
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uexp" 318
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 319
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uexp" 320
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 321
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 322
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 323
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 324
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 325
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 326
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 327
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 328
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 329
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 330
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp" 331
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 332
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 333
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 334
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp" 335
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 336
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uexp" 337
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 338
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uexp" 339
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 340
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp" 341
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 342
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 343
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 344
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 345
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 346
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 347
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 348
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 349
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 350
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 351
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 352
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 353
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 354
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 355
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 356
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 357
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 358
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 359
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 360
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 361
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 362
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 363
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 364
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 365
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 366
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 367
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 368
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 369
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 370
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 371
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 372
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 373
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 374
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 375
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 376
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 377
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 378
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 379
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 380
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 381
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 382
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 383
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 384
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 385
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 386
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 387
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 388
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 389
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 390
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 391
+"../../../Engine/Plugins/Experimental/ControlRig/Content/M_Manip.uasset" 392
+"../../../Engine/Plugins/Experimental/ControlRig/Content/M_Manip.uexp" 393
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset" 394
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRigGizmoMaterial.uexp" 395
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset" 396
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uexp" 397
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset" 398
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uexp" 399
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset" 400
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uexp" 401
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset" 402
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uexp" 403
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset" 404
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uexp" 405
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset" 406
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uexp" 407
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset" 408
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uexp" 409
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset" 410
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uexp" 411
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset" 412
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow_solid.uexp" 413
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset" 414
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Box_1mm.uexp" 415
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset" 416
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Box_3mm.uexp" 417
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Box_solid.uasset" 418
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Box_solid.uexp" 419
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset" 420
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Circle_1mm.uexp" 421
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset" 422
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Circle_3mm.uexp" 423
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset" 424
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Circle_solid.uexp" 425
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset" 426
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uexp" 427
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset" 428
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uexp" 429
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset" 430
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Diamond_solid.uexp" 431
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset" 432
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uexp" 433
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uasset" 434
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uexp" 435
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uasset" 436
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uexp" 437
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uasset" 438
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uexp" 439
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uasset" 440
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uexp" 441
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uasset" 442
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uexp" 443
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset" 444
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uexp" 445
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset" 446
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uexp" 447
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Octagon_solid.uasset" 448
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Octagon_solid.uexp" 449
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset" 450
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uexp" 451
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset" 452
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uexp" 453
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uasset" 454
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uexp" 455
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uasset" 456
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uexp" 457
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uasset" 458
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uexp" 459
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uasset" 460
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uexp" 461
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uasset" 462
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uexp" 463
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uasset" 464
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uexp" 465
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uasset" 466
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uexp" 467
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uasset" 468
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uexp" 469
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uasset" 470
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uexp" 471
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uasset" 472
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uexp" 473
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset" 474
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uexp" 475
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset" 476
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uexp" 477
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset" 478
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Sphere_solid.uexp" 479
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset" 480
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Square_1mm.uexp" 481
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset" 482
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Square_3mm.uexp" 483
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Square_solid.uasset" 484
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Square_solid.uexp" 485
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset" 486
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Star4_1mm.uexp" 487
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Star4_3mm.uasset" 488
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Star4_3mm.uexp" 489
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Star4_solid.uasset" 490
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Star4_solid.uexp" 491
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uasset" 492
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uexp" 493
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uasset" 494
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uexp" 495
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Triangle_solid.uasset" 496
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Triangle_solid.uexp" 497
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset" 498
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uexp" 499
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset" 500
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uexp" 501
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset" 502
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Wedge_solid.uexp" 503
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/DefaultGizmoLibrary.uasset" 504
+"../../../Engine/Plugins/Experimental/ControlRig/Content/Controls/DefaultGizmoLibrary.uexp" 505
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 506
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 507
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 508
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 509
+"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 510
+"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uexp" 511
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/Menus/PantsPicker.uasset" 512
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/Menus/PantsPicker.uexp" 513
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/Material_004.uasset" 514
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/Material_004.uexp" 515
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/HairRetopoMat.uasset" 516
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/HairRetopoMat.uexp" 517
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/TestImportRig_Skeleton.uasset" 518
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/TestImportRig_Skeleton.uexp" 519
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/TestImportRigHair.uasset" 520
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/TestImportRigHair.uexp" 521
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/MomentumGameInstance.uasset" 522
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/MomentumGameInstance.uexp" 523
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 524
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 525
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/CharacterParts.uasset" 526
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/CharacterParts.uexp" 527
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/CharacterPartData.uasset" 528
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/CharacterPartData.uexp" 529
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/CharacterSave.uasset" 530
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/CharacterSave.uexp" 531
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Sounds/FX/Character/MetalBracketHit_FSHOF_629.uasset" 532
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Sounds/FX/Character/MetalBracketHit_FSHOF_629.uexp" 533
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Sounds/FX/Character/grindSound.uasset" 534
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Sounds/FX/Character/grindSound.uexp" 535
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Sounds/FX/Character/FA_Whoosh_1_2.uasset" 536
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Sounds/FX/Character/FA_Whoosh_1_2.uexp" 537
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/Material_002.uasset" 538
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/Material_002.uexp" 539
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 540
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uexp" 541
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 542
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp" 543
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 544
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uexp" 545
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeInteger.uasset" 546
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeInteger.uexp" 547
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedInt.uasset" 548
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedInt.uexp" 549
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 550
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uexp" 551
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedFloat.uasset" 552
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedFloat.uexp" 553
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 554
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uexp" 555
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSizeBySpeed.uasset" 556
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSizeBySpeed.uexp" 557
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 558
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uexp" 559
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uasset" 560
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uexp" 561
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uasset" 562
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uexp" 563
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 564
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uexp" 565
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 566
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uexp" 567
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uasset" 568
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uexp" 569
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uasset" 570
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uexp" 571
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 572
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uexp" 573
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uasset" 574
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uexp" 575
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 576
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uexp" 577
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 578
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uexp" 579
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uasset" 580
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uexp" 581
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 582
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uexp" 583
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 584
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uexp" 585
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 586
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uexp" 587
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 588
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uexp" 589
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 590
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uexp" 591
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 592
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uexp" 593
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 594
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uexp" 595
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uasset" 596
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uexp" 597
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 598
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uexp" 599
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 600
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uexp" 601
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 602
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uexp" 603
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 604
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uexp" 605
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 606
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uexp" 607
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 608
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uexp" 609
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 610
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uexp" 611
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 612
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uexp" 613
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 614
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uexp" 615
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 616
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uexp" 617
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 618
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uexp" 619
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 620
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uexp" 621
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/ParticlesFX/GrindSparksSystem.uasset" 622
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/ParticlesFX/GrindSparksSystem.uexp" 623
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomUnitVector.uasset" 624
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomUnitVector.uexp" 625
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomVector.uasset" 626
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomVector.uexp" 627
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizeDistanceRange.uasset" 628
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizeDistanceRange.uexp" 629
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DistanceBasedFalloff.uasset" 630
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DistanceBasedFalloff.uexp" 631
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityFromPoint.uasset" 632
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityFromPoint.uexp" 633
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uasset" 634
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uexp" 635
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 636
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uexp" 637
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 638
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uexp" 639
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomPointInSphere.uasset" 640
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomPointInSphere.uexp" 641
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/SphericalToCartesianCoordinates.uasset" 642
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/SphericalToCartesianCoordinates.uexp" 643
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/SphereLocation.uasset" 644
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/SphereLocation.uexp" 645
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/ParticlesFX/EnergyChargingSystem.uasset" 646
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/ParticlesFX/EnergyChargingSystem.uexp" 647
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Models/Character/HeadphonesMaterial.uasset" 648
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Models/Character/HeadphonesMaterial.uexp" 649
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Geometry/Rail.uasset" 650
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Geometry/Rail.uexp" 651
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/RailMat.uasset" 652
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/RailMat.uexp" 653
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/ThirdPersonCPP/GrindRail.uasset" 654
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/ThirdPersonCPP/GrindRail.uexp" 655
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/Material_003.uasset" 656
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/Material_003.uexp" 657
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/ThirdPersonCPP/Balance.uasset" 658
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/ThirdPersonCPP/Balance.uexp" 659
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Models/Character/CartoonHeadphones.uasset" 660
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Models/Character/CartoonHeadphones.uexp" 661
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Models/Character/GogglesTexture.uasset" 662
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Models/Character/GogglesTexture.uexp" 663
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Models/Character/GogglesTexture.ubulk" 664
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 665
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 666
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 667
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uexp" 668
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 669
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uexp" 670
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Models/Character/GogglesMaterial.uasset" 671
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Models/Character/GogglesMaterial.uexp" 672
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Models/Character/CartoonGoggles.uasset" 673
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Models/Character/CartoonGoggles.uexp" 674
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Sounds/FX/Character/ConcreteSoundCue.uasset" 675
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Sounds/FX/Character/ConcreteSoundCue.uexp" 676
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 677
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 678
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 679
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 680
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/CartoonSkate_MyCharacter_Idle.uasset" 681
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/CartoonSkate_MyCharacter_Idle.uexp" 682
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/KinzieIdle.uasset" 683
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/KinzieIdle.uexp" 684
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/KinzieLocomotionBS.uasset" 685
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/KinzieLocomotionBS.uexp" 686
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/KinzieJump.uasset" 687
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/KinzieJump.uexp" 688
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/CartoonRedirectBurst_MyCharacter_MyCharacterAction_001.uasset" 689
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/CartoonRedirectBurst_MyCharacter_MyCharacterAction_001.uexp" 690
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/CartoonJump2_MyCharacter_Idle.uasset" 691
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/CartoonJump2_MyCharacter_Idle.uexp" 692
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/CartoonDriftSharp_MyCharacter_MyCharacterAction.uasset" 693
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/CartoonDriftSharp_MyCharacter_MyCharacterAction.uexp" 694
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/CartoonDriftSharpRight_MyCharacter_MyCharacterAction.uasset" 695
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/CartoonDriftSharpRight_MyCharacter_MyCharacterAction.uexp" 696
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Blueprints/CharacterAbilities/DriftComponent.uasset" 697
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Blueprints/CharacterAbilities/DriftComponent.uexp" 698
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/KinzieGrind.uasset" 699
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/KinzieGrind.uexp" 700
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/KinzieAnimBP.uasset" 701
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/KinzieAnimBP.uexp" 702
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Blueprints/CharacterAbilities/RedirectBurstComponent.uasset" 703
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Blueprints/CharacterAbilities/RedirectBurstComponent.uexp" 704
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Blueprints/CharacterAbilities/BrakeComponent.uasset" 705
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Blueprints/CharacterAbilities/BrakeComponent.uexp" 706
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/AccelerationCurve.uasset" 707
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/AccelerationCurve.uexp" 708
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/TestImportRigSkates_PhysicsAsset.uasset" 709
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/TestImportRigSkates_PhysicsAsset.uexp" 710
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/TestImportRigSkates.uasset" 711
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/TestImportRigSkates.uexp" 712
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/KinzieAccelerate.uasset" 713
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/KinzieAccelerate.uexp" 714
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/NewAnimMontage.uasset" 715
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/NewAnimMontage.uexp" 716
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/AdvancedMagicFX12/Meshes/SM_ky_sphereHarf03.uasset" 717
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/AdvancedMagicFX12/Meshes/SM_ky_sphereHarf03.uexp" 718
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/AdvancedMagicFX12/Textures/T_ky_noise6.uasset" 719
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/AdvancedMagicFX12/Textures/T_ky_noise6.uexp" 720
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/AdvancedMagicFX12/Textures/T_ky_noise6.ubulk" 721
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/AdvancedMagicFX12/Textures/T_ky_noise4.uasset" 722
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/AdvancedMagicFX12/Textures/T_ky_noise4.uexp" 723
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/AdvancedMagicFX12/Textures/T_ky_noise4.ubulk" 724
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/AdvancedMagicFX12/Textures/T_ky_noise16.uasset" 725
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/AdvancedMagicFX12/Textures/T_ky_noise16.uexp" 726
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/AdvancedMagicFX12/Textures/T_ky_noise16.ubulk" 727
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/AdvancedMagicFX12/Textures/T_ky_maskRGB3.uasset" 728
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/AdvancedMagicFX12/Textures/T_ky_maskRGB3.uexp" 729
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/AdvancedMagicFX12/Textures/T_ky_maskRGB3.ubulk" 730
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 731
+"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 732
+"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 733
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/AdvancedMagicFX12/Materials/Mfunction/MF_ky_AddHilight.uasset" 734
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/AdvancedMagicFX12/Materials/Mfunction/MF_ky_AddHilight.uexp" 735
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 736
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 737
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/AdvancedMagicFX12/Materials/M_ky_aura14.uasset" 738
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/AdvancedMagicFX12/Materials/M_ky_aura14.uexp" 739
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/MI_ky_aura14_dark.uasset" 740
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/MI_ky_aura14_dark.uexp" 741
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/P_ky_shot_dark.uasset" 742
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/P_ky_shot_dark.uexp" 743
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Practice.uasset" 744
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Practice.uexp" 745
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/MovementSpeed.uasset" 746
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/MovementSpeed.uexp" 747
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/EyeTextureColor.uasset" 748
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/EyeTextureColor.uexp" 749
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/EyeTextureColor.ubulk" 750
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/EyeTextureBlank.uasset" 751
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/EyeTextureBlank.uexp" 752
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/EyeTextureBlank.ubulk" 753
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/EyeTexture.uasset" 754
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/EyeTexture.uexp" 755
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/EyeTexture.ubulk" 756
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Material_001.uasset" 757
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Material_001.uexp" 758
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/JumpForceCurve.uasset" 759
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/JumpForceCurve.uexp" 760
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/DropShadow.uasset" 761
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/DropShadow.uexp" 762
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/DropShadow.ubulk" 763
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/DropShadow_Mat.uasset" 764
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/DropShadow_Mat.uexp" 765
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Models/Character/CartoonCapris.uasset" 766
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Models/Character/CartoonCapris.uexp" 767
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/ColorTypes.uasset" 768
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/ColorTypes.uexp" 769
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/TestImportRigShirt_PhysicsAsset.uasset" 770
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/TestImportRigShirt_PhysicsAsset.uexp" 771
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/Material.uasset" 772
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/Material.uexp" 773
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/TestImportRigShirt.uasset" 774
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/TestImportRigShirt.uexp" 775
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Models/Character/CartoonFemaleShortSleeve.uasset" 776
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Models/Character/CartoonFemaleShortSleeve.uexp" 777
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Models/Character/CartoonBaggyShorts.uasset" 778
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Models/Character/CartoonBaggyShorts.uexp" 779
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/Material.uasset" 780
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/Material.uexp" 781
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/CartoonMaleShirt.uasset" 782
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/CartoonMaleShirt.uexp" 783
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/Material_005.uasset" 784
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/Material_005.uexp" 785
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/TestImportRigShorts.uasset" 786
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/TestImportRigShorts.uexp" 787
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Material_005.uasset" 788
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Material_005.uexp" 789
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Models/Character/Female/CartoonPants.uasset" 790
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Models/Character/Female/CartoonPants.uexp" 791
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Models/Character/Female/CartoonLongSleeve_PhysicsAsset.uasset" 792
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Models/Character/Female/CartoonLongSleeve_PhysicsAsset.uexp" 793
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Material.uasset" 794
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Material.uexp" 795
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Models/Character/Female/CartoonLongSleeve.uasset" 796
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Models/Character/Female/CartoonLongSleeve.uexp" 797
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/Material_005.uasset" 798
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/Material_005.uexp" 799
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/CartoonMaleShorts.uasset" 800
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/CartoonMaleShorts.uexp" 801
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/ColorPicker.uasset" 802
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/ColorPicker.uexp" 803
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/Material_004.uasset" 804
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/Material_004.uexp" 805
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/CartoonMaleHair.uasset" 806
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/CartoonMaleHair.uexp" 807
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/CartoonMale_PhysicsAsset.uasset" 808
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/CartoonMale_PhysicsAsset.uexp" 809
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/Material_003.uasset" 810
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/Material_003.uexp" 811
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/Material_002.uasset" 812
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/Material_002.uexp" 813
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/EyeTexture.uasset" 814
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/EyeTexture.uexp" 815
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/EyeTexture.ubulk" 816
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/Material_001.uasset" 817
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/Material_001.uexp" 818
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/CartoonMale.uasset" 819
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Male/CartoonMale.uexp" 820
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/TestImportRig_PhysicsAsset.uasset" 821
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/TestImportRig_PhysicsAsset.uexp" 822
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/EyeTexture.uasset" 823
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/EyeTexture.uexp" 824
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/EyeTexture.ubulk" 825
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/Material_001.uasset" 826
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/Material_001.uexp" 827
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/TestImportRig.uasset" 828
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Rig/TestImportRig.uexp" 829
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Material_004.uasset" 830
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Material_004.uexp" 831
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/HairRetopoMat.uasset" 832
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/HairRetopoMat.uexp" 833
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/TestImport_LowPoly_Skeleton.uasset" 834
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/TestImport_LowPoly_Skeleton.uexp" 835
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/AccelerateAnim.uasset" 836
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/AccelerateAnim.uexp" 837
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/CharacterCustomizerRandom.uasset" 838
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/CharacterCustomizerRandom.uexp" 839
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraVertexSamplingMode.uasset" 840
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraVertexSamplingMode.uexp" 841
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTriangleSamplingMode.uasset" 842
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTriangleSamplingMode.uexp" 843
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSocketSamplingMode.uasset" 844
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSocketSamplingMode.uexp" 845
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSkelSamplingModeFull.uasset" 846
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSkelSamplingModeFull.uexp" 847
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSkelMeshTransforms.uasset" 848
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSkelMeshTransforms.uexp" 849
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSkelMeshPositionSamplingMode.uasset" 850
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSkelMeshPositionSamplingMode.uexp" 851
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraBoneSocketSamplingMode.uasset" 852
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraBoneSocketSamplingMode.uexp" 853
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraBoneSamplingMode.uasset" 854
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraBoneSamplingMode.uexp" 855
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MatrixToQuaternion.uasset" 856
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MatrixToQuaternion.uexp" 857
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MakeQuaternionFrom3BasisVectors.uasset" 858
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MakeQuaternionFrom3BasisVectors.uexp" 859
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 860
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uexp" 861
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/InvertQuaternion.uasset" 862
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/InvertQuaternion.uexp" 863
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 864
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uexp" 865
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 866
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uexp" 867
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMeshTransforms.uasset" 868
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMeshTransforms.uexp" 869
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_AttributeSamplingApplyOutput.uasset" 870
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_AttributeSamplingApplyOutput.uexp" 871
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/SkeletalMeshLocation.uasset" 872
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/SkeletalMeshLocation.uexp" 873
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 874
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uexp" 875
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeFloat.uasset" 876
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeFloat.uexp" 877
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uasset" 878
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uexp" 879
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uasset" 880
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uexp" 881
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 882
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uexp" 883
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 884
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uexp" 885
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 886
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uexp" 887
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 888
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uexp" 889
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 890
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uexp" 891
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 892
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uexp" 893
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 894
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uexp" 895
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 896
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uexp" 897
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 898
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uexp" 899
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 900
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uexp" 901
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 902
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uexp" 903
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uasset" 904
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uexp" 905
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/VectorFromCurve.uasset" 906
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/VectorFromCurve.uexp" 907
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/VectorFromFloat.uasset" 908
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/VectorFromFloat.uexp" 909
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/CalculateTriangleArea.uasset" 910
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/CalculateTriangleArea.uexp" 911
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/MeshInterface/Initialize_MeshReproductionSprite.uasset" 912
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/MeshInterface/Initialize_MeshReproductionSprite.uexp" 913
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/AfterImageSystem.uasset" 914
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/AfterImageSystem.uexp" 915
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset" 916
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uexp" 917
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Blueprints/CharacterData/SkinManager.uasset" 918
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Blueprints/CharacterData/SkinManager.uexp" 919
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Blueprints/CharacterData/SkinData.uasset" 920
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Blueprints/CharacterData/SkinData.uexp" 921
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/FemaleOutfitMesh.uasset" 922
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/FemaleOutfitMesh.uexp" 923
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/Menus/CharacterCreatorWidget.uasset" 924
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/Menus/CharacterCreatorWidget.uexp" 925
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 926
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Concrete_Poured_N.uexp" 927
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Concrete_Poured_N.ubulk" 928
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 929
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Concrete_Poured_D.uexp" 930
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Concrete_Poured_D.ubulk" 931
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 932
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Perlin_Noise_M.uexp" 933
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Perlin_Noise_M.ubulk" 934
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_MacroVariation.uasset" 935
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_MacroVariation.uexp" 936
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 937
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Materials/M_Concrete_Poured.uexp" 938
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/ColorPicker/ColorSlider_Value.uasset" 939
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/ColorPicker/ColorSlider_Value.uexp" 940
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/ColorPicker/ColorSlider.uasset" 941
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/ColorPicker/ColorSlider.uexp" 942
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 943
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uexp" 944
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 945
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 946
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 947
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp" 948
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/ColorPicker/ColoPickerMat.uasset" 949
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/ColorPicker/ColoPickerMat.uexp" 950
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/Menus/CreateCharacterPrompt.uasset" 951
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/Menus/CreateCharacterPrompt.uexp" 952
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/SaveList.uasset" 953
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/SaveList.uexp" 954
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/PanningCamera.uasset" 955
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/PanningCamera.uexp" 956
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/MainMenuGameMode.uasset" 957
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/MainMenuGameMode.uexp" 958
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/ColorPicker/ColorPickerWidget.uasset" 959
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/ColorPicker/ColorPickerWidget.uexp" 960
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Levels/CharacterCreator.uexp" 961
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Levels/CharacterCreator.umap" 962
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/Levels/BasicTimer.uasset" 963
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/Levels/BasicTimer.uexp" 964
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 965
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 966
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/Levels/AimForTimes.uasset" 967
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/Levels/AimForTimes.uexp" 968
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uasset" 969
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uexp" 970
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/ThirdPersonCPP/M_ToonShader.uasset" 971
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/ThirdPersonCPP/M_ToonShader.uexp" 972
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/ThirdPersonCPP/OutlineInst.uasset" 973
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/ThirdPersonCPP/OutlineInst.uexp" 974
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/ThirdPersonCPP/M_CelShading.uasset" 975
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/ThirdPersonCPP/M_CelShading.uexp" 976
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/ThirdPersonCPP/CelShadingInst.uasset" 977
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/ThirdPersonCPP/CelShadingInst.uexp" 978
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Water_M.uasset" 979
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Water_M.uexp" 980
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Water_M.ubulk" 981
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Water_N.uasset" 982
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Water_N.uexp" 983
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Water_N.ubulk" 984
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 985
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 986
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Materials/M_Water_Ocean.uasset" 987
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Materials/M_Water_Ocean.uexp" 988
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 989
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uexp" 990
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.ubulk" 991
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 992
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Concrete_Tiles_N.uexp" 993
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Concrete_Tiles_N.ubulk" 994
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 995
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Concrete_Tiles_M.uexp" 996
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Concrete_Tiles_M.ubulk" 997
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 998
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Concrete_Tiles_D.uexp" 999
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Concrete_Tiles_D.ubulk" 1000
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 1001
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Materials/M_Concrete_Tiles.uexp" 1002
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Geometry/Meshes/CubeMaterial.uasset" 1003
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Geometry/Meshes/CubeMaterial.uexp" 1004
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Geometry/Meshes/1M_Cube.uasset" 1005
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Geometry/Meshes/1M_Cube.uexp" 1006
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/ThirdPersonCPP/GrindRailMesh.uasset" 1007
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/ThirdPersonCPP/GrindRailMesh.uexp" 1008
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Geometry/Meshes/TemplateFloor.uasset" 1009
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Geometry/Meshes/TemplateFloor.uexp" 1010
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1011
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 1012
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 1013
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1014
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 1015
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 1016
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1017
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 1018
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 1019
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1020
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 1021
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1022
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 1023
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 1024
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 1025
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 1026
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 1027
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 1028
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 1029
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1030
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 1031
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Timer.uasset" 1032
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Timer.uexp" 1033
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1034
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Metal_Gold_N.uexp" 1035
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Metal_Gold_N.ubulk" 1036
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1037
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Metal_Gold_D.uexp" 1038
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Metal_Gold_D.ubulk" 1039
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/M_Metal_Gold.uasset" 1040
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/M_Metal_Gold.uexp" 1041
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Sounds/Music/Levels/4__RoboTrance.uasset" 1042
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Sounds/Music/Levels/4__RoboTrance.uexp" 1043
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/MusicPlayer.uasset" 1044
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/MusicPlayer.uexp" 1045
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Audio/SFX/FA_Win_Stinger_2.uasset" 1046
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Audio/SFX/FA_Win_Stinger_2.uexp" 1047
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/CollectibleManager.uasset" 1048
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/CollectibleManager.uexp" 1049
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/Levels/GameOver.uasset" 1050
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/Levels/GameOver.uexp" 1051
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/LevelHandler.uasset" 1052
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/LevelHandler.uexp" 1053
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1054
+"../../../Engine/Content/BasicShapes/Cube.uexp" 1055
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Levels/ActionBlocks/ActionBlockReachTheEnd.uexp" 1056
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Levels/ActionBlocks/ActionBlockReachTheEnd.umap" 1057
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/Menus/MainMenu.uasset" 1058
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/Menus/MainMenu.uexp" 1059
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Levels/MainMenu_BuiltData.uasset" 1060
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Levels/MainMenu_BuiltData.uexp" 1061
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Levels/MainMenu_BuiltData.ubulk" 1062
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Levels/MainMenu.uexp" 1063
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Levels/MainMenu.umap" 1064
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/LevelTimer.uasset" 1065
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/LevelTimer.uexp" 1066
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/Levels/Timer.uasset" 1067
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/Levels/Timer.uexp" 1068
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/Levels/CollectiblesUI.uasset" 1069
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/UI/Levels/CollectiblesUI.uexp" 1070
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1071
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uexp" 1072
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.ubulk" 1073
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1074
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/StarterContent/Materials/M_Rock_Marble_Polished.uexp" 1075
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Levels/ActionBlocks/ActionBlockCollectibles_BuiltData.uasset" 1076
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Levels/ActionBlocks/ActionBlockCollectibles_BuiltData.uexp" 1077
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Levels/ActionBlocks/ActionBlockCollectibles_BuiltData.ubulk" 1078
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1079
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 1080
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/M_Gnomon_Alpha.uasset" 1081
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/M_Gnomon_Alpha.uexp" 1082
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/M_Gnomon.uasset" 1083
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/M_Gnomon.uexp" 1084
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/S_Arrow.uasset" 1085
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/S_Arrow.uexp" 1086
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleMeshSize.uasset" 1087
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleMeshSize.uexp" 1088
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uasset" 1089
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uexp" 1090
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uasset" 1091
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uexp" 1092
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uasset" 1093
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uexp" 1094
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/Templates/Systems/SimpleExplosion.uasset" 1095
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/Templates/Systems/SimpleExplosion.uexp" 1096
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Audio/SFX/FA_Collect_Coin_1_1.uasset" 1097
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Audio/SFX/FA_Collect_Coin_1_1.uexp" 1098
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Blueprints/ActionBlockIdeas/Collectible.uasset" 1099
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Blueprints/ActionBlockIdeas/Collectible.uexp" 1100
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/FullTransparent.uasset" 1101
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/FullTransparent.uexp" 1102
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Levels/ActionBlocks/ActionBlockCollectibles.uexp" 1103
+"C:/Users/dws24/Documents/Unreal Projects/MomentumPlatformerBackup 4.27/Content/Levels/ActionBlocks/ActionBlockCollectibles.umap" 1104
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1105
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 1106
+"../../../Engine/Content/Maps/Entry.uexp" 1107
+"../../../Engine/Content/Maps/Entry.umap" 1108

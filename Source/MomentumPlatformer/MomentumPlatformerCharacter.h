@@ -33,6 +33,9 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Camera)
 		bool Grinding;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Camera)
+		bool Drifting;
+
 protected:
 
 	/** Resets HMD orientation in VR. */
